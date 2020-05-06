@@ -7,6 +7,10 @@
     display: inline;
     margin-left: 50px}
     
+    p {align="justify"}
+
+    article {font-style: italic}
+
   footer {margin-left: 5px}
 
 </style>
