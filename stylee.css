@@ -1,0 +1,12 @@
+<style>
+  section {}
+
+  h1 {background: #ff0000;
+    border-radius: 30px;
+    padding: 10px;
+    display: inline;
+    margin-left: 50px}
+    
+  footer {margin-left: 5px}
+
+</style>
